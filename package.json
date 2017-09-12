@@ -1,0 +1,13 @@
+{
+  "name": "TutorialGeneticAlogorithm",
+  "version": "0.0.1",
+  "description": "AI Junkie genetic algorithm tutorial.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/box-2-box/TutorialGeneticAlgorithm.git"
+  },
+  "author": "Jeff Pierce",
+  "devDependencies": {
+    "random-seed": "^0.3.0"
+  }
+}
